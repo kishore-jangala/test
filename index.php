@@ -53,7 +53,7 @@
             ORDER BY id
         ;";
 
-        // Formats the table column headings
+        /////// Formats the table column headings
         echo "</br><table border=1 cellspacing=0 cellpading=0><tr> 
         <td style='height:40px;width:160px;text-align:center'><font color= blue> Project Name </td> 
         <td style='height:40px;width:160px;text-align:center'><font color= red> Due Date </font></td></tr>";
